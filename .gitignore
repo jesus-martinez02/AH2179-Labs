@@ -208,3 +208,6 @@ __marimo__/
 
 #### Own .gitignore #####
 Lab_3/data/
+Lab_4_pca/data/
+Lab_5_nn/Exercise7data.csv
+Lab_5_nn/Exercise7BikeSharing.csv
